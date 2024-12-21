@@ -1,0 +1,15 @@
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\bin\Debug\net5.0\DAY8_C_Sharp.exe
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\bin\Debug\net5.0\DAY8_C_Sharp.deps.json
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\bin\Debug\net5.0\DAY8_C_Sharp.runtimeconfig.json
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\bin\Debug\net5.0\DAY8_C_Sharp.runtimeconfig.dev.json
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\bin\Debug\net5.0\DAY8_C_Sharp.dll
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\bin\Debug\net5.0\DAY8_C_Sharp.pdb
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\obj\Debug\net5.0\DAY8_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\obj\Debug\net5.0\DAY8_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\obj\Debug\net5.0\DAY8_C_Sharp.AssemblyInfo.cs
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\obj\Debug\net5.0\DAY8_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\obj\Debug\net5.0\DAY8_C_Sharp.dll
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\obj\Debug\net5.0\refint\DAY8_C_Sharp.dll
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\obj\Debug\net5.0\DAY8_C_Sharp.pdb
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\obj\Debug\net5.0\DAY8_C_Sharp.genruntimeconfig.cache
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 01\DAY8_C_Sharp\obj\Debug\net5.0\ref\DAY8_C_Sharp.dll

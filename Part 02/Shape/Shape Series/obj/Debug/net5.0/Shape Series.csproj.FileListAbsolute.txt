@@ -1,0 +1,30 @@
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\bin\Debug\net5.0\Shape Series.exe
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\bin\Debug\net5.0\Shape Series.deps.json
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\bin\Debug\net5.0\Shape Series.runtimeconfig.json
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\bin\Debug\net5.0\Shape Series.runtimeconfig.dev.json
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\bin\Debug\net5.0\Shape Series.dll
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\bin\Debug\net5.0\Shape Series.pdb
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\obj\Debug\net5.0\Shape Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\obj\Debug\net5.0\Shape Series.AssemblyInfoInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\obj\Debug\net5.0\Shape Series.AssemblyInfo.cs
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\obj\Debug\net5.0\Shape Series.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\obj\Debug\net5.0\Shape Series.dll
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\obj\Debug\net5.0\refint\Shape Series.dll
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\obj\Debug\net5.0\Shape Series.pdb
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\obj\Debug\net5.0\Shape Series.genruntimeconfig.cache
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape Series\Shape Series\obj\Debug\net5.0\ref\Shape Series.dll
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\bin\Debug\net5.0\Shape Series.exe
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\bin\Debug\net5.0\Shape Series.deps.json
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\bin\Debug\net5.0\Shape Series.runtimeconfig.json
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\bin\Debug\net5.0\Shape Series.runtimeconfig.dev.json
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\bin\Debug\net5.0\Shape Series.dll
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\bin\Debug\net5.0\Shape Series.pdb
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\obj\Debug\net5.0\Shape Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\obj\Debug\net5.0\Shape Series.AssemblyInfoInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\obj\Debug\net5.0\Shape Series.AssemblyInfo.cs
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\obj\Debug\net5.0\Shape Series.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\obj\Debug\net5.0\Shape Series.dll
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\obj\Debug\net5.0\refint\Shape Series.dll
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\obj\Debug\net5.0\Shape Series.pdb
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\obj\Debug\net5.0\Shape Series.genruntimeconfig.cache
+C:\Users\Ahmed Ramzy\source\repos\DAY8_C_Sharp\Part 02\Shape\Shape Series\obj\Debug\net5.0\ref\Shape Series.dll
